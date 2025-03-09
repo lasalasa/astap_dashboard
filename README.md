@@ -134,7 +134,7 @@ This project is licensed under the MIT License.
 
 ### 🎯 Author
 **Lasantha Lakmal**  
-[GitHub](https://github.com/lasa) 
+[GitHub](https://github.com/lasalasa) 
 
 <!-- | [Website](https://yourwebsite.com) -->
 
